@@ -1,0 +1,26 @@
+<svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <stop style="stop-color: rgb(134, 255, 193);" offset="0"></stop>
+      <stop style="stop-color: rgb(97, 147, 255);" offset="1"></stop>
+    </linearGradient>
+    <linearGradient id="gradient-1" x1="24" x2="24" y1="6" y2="42" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.831601, 0.555374, -0.808266, 1.21027, 26.300197, -14.583147)">
+      <stop style="stop-color: rgb(134, 255, 193);" offset="0"></stop>
+      <stop style="stop-color: rgb(97, 147, 255);" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  <path d="M42,37c0,2.762-2.238,5-5,5H11c-2.762,0-5-2.238-5-5V11c0-2.762,2.238-5,5-5h26 c2.762,0,5,2.238,5,5V37z" style="fill: url(#gradient-1);"></path>
+  <radialGradient id="uCZz3JcUOJjrtrvOyVUpaa" cx="33.34" cy="36.064" r="43.888" gradientTransform="matrix(0.499987, 0, 0, 0.517241, 7.703893, 8.62258)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#f4e9c3"></stop>
+    <stop offset="0.219" stop-color="#f8eecd"></stop>
+    <stop offset="0.644" stop-color="#fdf4dc"></stop>
+    <stop offset="1" stop-color="#fff6e1"></stop>
+  </radialGradient>
+  <linearGradient id="uCZz3JcUOJjrtrvOyVUpab" x1="32" x2="32" y1="5.723" y2="55.93" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.499987, 0, 0, 0.517241, 7.703893, 7.588097)">
+    <stop offset="0" stop-color="#a4a4a4"></stop>
+    <stop offset="0.619" stop-color="gray"></stop>
+    <stop offset="1" stop-color="#6f6f6f"></stop>
+  </linearGradient>
+  <path fill="#fff" d="M 19.191 37.158 C 19.188 37.157 19.184 37.156 19.181 37.155 C 19.185 37.156 19.188 37.157 19.191 37.158 Z"></path>
+  <path fill="#fff" d="M 29.801 36.561 L 29.801 32.654 C 29.801 30.95 28.571 28.69 26.885 27.885 C 33.011 27.303 35.934 24.514 35.934 20.725 C 35.934 19.095 35.179 17.521 33.896 16.194 C 34.325 14.876 34.863 12.172 33.738 11.145 C 30.973 11.145 29.302 12.788 28.907 13.228 C 27.527 12.794 26.01 12.549 24.42 12.549 C 22.833 12.549 21.322 12.794 19.947 13.226 C 19.546 12.784 17.878 11.145 15.118 11.145 C 13.999 12.171 14.53 14.863 14.955 16.183 C 13.664 17.514 12.904 19.092 12.904 20.725 C 12.904 24.516 15.831 27.309 21.966 27.886 C 20.902 28.394 20.032 29.471 19.528 30.642 C 18.591 30.776 17.597 30.812 16.932 30.812 C 15.561 30.812 15.216 30.612 14.482 29.731 C 13.745 28.852 12.961 28.259 12.017 28.014 C 11.507 27.967 11.168 28.331 11.611 28.648 C 13.106 29.606 13.211 31.172 13.814 32.197 C 14.359 33.118 15.481 33.614 16.741 33.614 C 17.055 33.614 18.308 33.614 19.055 33.614 L 19.055 36.567 C 19.055 36.722 21.741 37.389 24.426 37.389 C 27.484 37.389 29.801 36.627 29.801 36.561 Z" style=""></path>
+</svg>
